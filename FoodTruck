@@ -24,7 +24,7 @@ class TacoTruck
 private:
 	string TruckName;
 	int numberSold;
-    int justSold;
+    	int justSold;
 	double tacoPrice;
 	int dailySales;
 	double totalEarned;
@@ -46,11 +46,11 @@ public:
 
 	void setDailySales(); //mutator
 
-  int soldToday(); //function to calculate number of items sold daily
+  	int soldToday(); //function to calculate number of items sold daily
 
-  double getTotalEarned(); //accessor
+	double getTotalEarned(); //accessor
 
-  void setTotalEarned(); //mutator - calculates total earnings
+  	void setTotalEarned(); //mutator - calculates total earnings
 
 	void writeOutput(); //outputs sales data
 
@@ -61,7 +61,7 @@ TacoTruck::TacoTruck() //default constructor
 {
 	TruckName = "Tasty Tacos";
 	numberSold = 0;
-    justSold = 0;
+    	justSold = 0;
 	tacoPrice = 0.0;
 	dailySales = 0;
 	totalEarned = 0.0;
@@ -202,11 +202,11 @@ public:
 
 	void setDailySales(); //mutator
 
-    int soldToday(); //function to calculate number of items sold daily
+    	int soldToday(); //function to calculate number of items sold daily
 
-    double getTotalEarned(); //accessor
+    	double getTotalEarned(); //accessor
 
-    void setTotalEarned(); //mutator - calculates total earnings
+    	void setTotalEarned(); //mutator - calculates total earnings
 
 	void writeOutput(); //outputs sales data
 
@@ -217,7 +217,7 @@ HotDogStand::HotDogStand() //default constructor
 {
 	TruckName = "Henry's Hot Dogs";
 	numberSold = 0;
-    justSold = 0;
+    	justSold = 0;
 	hotDogPrice = 0.0;
 	dailySales = 0;
 	totalEarned = 0.0;
@@ -337,7 +337,7 @@ class IceCreamTruck
 private:
 	string TruckName;
 	int numberSold;
-    int justSold;
+    	int justSold;
 	double iceCreamPrice;
 	int dailySales;
 	double totalEarned;
@@ -359,11 +359,11 @@ public:
 
 	void setDailySales(); //mutator
 
-    int soldToday(); //function to calculate number of items sold daily
+    	int soldToday(); //function to calculate number of items sold daily
 
-    double getTotalEarned(); //accessor
+    	double getTotalEarned(); //accessor
 
-    void setTotalEarned(); //mutator - calculates total earnings
+    	void setTotalEarned(); //mutator - calculates total earnings
 
 	void writeOutput(); //outputs sales data
 
@@ -374,7 +374,7 @@ IceCreamTruck::IceCreamTruck() //default constructor
 {
 	TruckName = "Frosty Delights";
 	numberSold = 0;
-    justSold = 0;
+    	justSold = 0;
 	iceCreamPrice = 0.0;
 	dailySales = 0;
 	totalEarned = 0.0;
