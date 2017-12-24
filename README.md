@@ -1,5 +1,12 @@
-# Food Trucks - Final Project for MAC125
+# Coursework
 
-You own and operate several food trucks and stands around the city. This program includes a class for each food truck you own, generates a random number to estimate the number of items purchased during an individual transaction (a random number is used to represent sales of a real food truck), tracks the number of items sold each day (also using a random number), and calculates the daily income earned by each of the food trucks you operate. The data is then written to a file so the user can track their business' progress. 
+Homework assignments and projects completed for the following computer science classes I took at LaGuardia Community College from Fall 2014 - Spring 2015:
 
-This program demonstrates knowledge of classes, encapsulation, constructors, and input/output streams in C++, among other concepts.
+[MAC101 - Introduction to Computer Science](https://drive.google.com/file/d/0BwpDlhRk1BxRU21FbGh4bWE2R3M/view?usp=sharing)
+⋅⋅⋅MAC101 covered introductory computer programming concepts such as loops, strings, functions, pointers, and file processing.
+
+[MAC125 - Advanced C/C++ Programming]()
+⋅⋅⋅MAC125 expanded on what I learned in MAC101 to cover topics such as classes, pointers and pointer arithmetic, operator overloading, inheritance and polymorphism, among other concepts. As what was covered in my class differed slightly from the official syllabus please view the list of [course topics](https://drive.google.com/file/d/0BwpDlhRk1BxRYVhmWkpGQ3oyekU/view?usp=sharing) to see what I studied.
+
+[MAC190 - Object Oriented Programming](https://drive.google.com/file/d/0BwpDlhRk1BxRVHBJeHYxRmQ1ek0/view?usp=sharing)
+⋅⋅⋅MAC 190 introduced me to programming in Java and covered basic object oriented programming concepts such as classes, encapsulation, polymorphism, and inheritance.
