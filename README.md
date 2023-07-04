@@ -10,3 +10,8 @@ Homework assignments and projects completed for the following computer science c
 
 [MAC190 - Object Oriented Programming](https://drive.google.com/file/d/0BwpDlhRk1BxRVHBJeHYxRmQ1ek0/view?usp=sharing)
 ⋅⋅⋅MAC 190 introduced me to programming in Java and covered basic object oriented programming concepts such as classes, encapsulation, polymorphism, and inheritance.
+
+Homework assignments and projects completed for the following computer science classes taken at Borough of Manhattan Community College
+
+[CSC331 - Data Structures](https://bmcc.catalog.cuny.edu/courses/1337451)
+⋅⋅⋅CSC331 covered linear and non-linear data structures including stacks, queues, lined lists, has tables, trees, graphs, searching and sorting techniques along with asymptotic analysis of algorithms and data structures.

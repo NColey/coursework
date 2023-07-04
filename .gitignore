@@ -1,2 +1,8 @@
-/.idea/
-.DS-Store
+.idea
+.DS_Store
+*.out
+*.txt
+*.cbp
+CMakeFiles
+Makefile
+*.cmake
